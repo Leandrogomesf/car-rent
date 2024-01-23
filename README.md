@@ -1,5 +1,4 @@
-# Carent
-Projeto de criação do banco de dados de uma locadora de carros.
+# CARENT
 
 **Autor:** Leandro Ferreira
 
@@ -10,6 +9,7 @@ Projeto de criação do banco de dados de uma locadora de carros.
 _____
 
 ## Introdução
+Projeto de criação do banco de dados de uma locadora de carros.
 
 Este projeto foi desenvolvido com base nas aulas do canal de Youtube Hashtag. https://www.youtube.com/watch?v=Ix0fwZRyBe8&t=532s
 
