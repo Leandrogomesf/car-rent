@@ -2,7 +2,9 @@
 Projeto de criação do banco de dados de uma locadora de carros.
 
 **Autor:** Leandro Ferreira
+
 **Data da criação:** 23/01/2024
+
 **Linguagem:** SQL - SQL Server
 
 _____
